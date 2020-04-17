@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlinjsonexample</string>
+    <string name="name">Captain American</string>
+    <string name="team">Avengers</string>
+    <string name="createdby">Joe Simon</string>
+</resources>
